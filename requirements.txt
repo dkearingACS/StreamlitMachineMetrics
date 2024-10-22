@@ -2,5 +2,5 @@ pyodbc
 SQLAlchemy
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 streamlit
