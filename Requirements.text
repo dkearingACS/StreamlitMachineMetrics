@@ -1,0 +1,5 @@
+pyodbc
+pandas
+seaborn
+matplotlib.pyplot
+streamlit
