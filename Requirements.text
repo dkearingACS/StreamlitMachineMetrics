@@ -1,4 +1,5 @@
 pyodbc
+SQLAlchemy
 pandas
 seaborn
 matplotlib.pyplot
